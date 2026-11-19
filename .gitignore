@@ -1,0 +1,6 @@
+.env
+deploy/testnet-deployer.json
+deploy/mainnet-deployer.json
+out/
+cache/
+broadcast/
