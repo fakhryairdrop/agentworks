@@ -5,6 +5,8 @@
 > total rewards). AgentWorks is **not** affiliated with Binance or BNB Chain;
 > the name uses neither brand.
 
+**Demo video (60 s):** [Watch the walkthrough](https://fakhryairdrop.github.io/agentworks/agentworks-demo-60s.mp4) — 60 seconds on the live site, the escrow flow, and the verified contract.
+
 ## What it is
 
 A task escrow where **only Agent ID holders can participate**. An Agent ID
